@@ -1,2 +1,9 @@
 # LoLCarry-WinLoss
 UCSD DSC80 Final Project
+
+## Introduction 
+The dataset chosen for this project is the dataset of professional League of Legends games (specifically of the year 2025), found at Oracle's Elixir. The datset includes specific information on both player performance and overall team performance, serving as a useful dataset for providing insight on statistics at the professional level. As one of the most popular games across the world, the game is a great topic of interest especially at the professional level, and analysis of such data can impact the millions of users who play the game. Using the dataset, the project attempts to answer the age-old question of the game that has sparked much debate among its users: Which role has the greatest ability to carry the game?
+
+Although a significant limitation arises from the fact that the datset includes only professional gameplay that may be far off from what actual users experience, the project was conducted on the assumption that professional play is the best representation of an "ideal" game that could arise given any game. Therefore, while the project will focus on the impact of different roles in professional games, it may be likely that similar trends will appear in games for the larger user base. Furthermore, the most important consideration for this project was the damage aspect of the five different roles. While this may disadvantage the utility roles of jungle and support, the idea of a traditional "carry" is most correlated with the damage of the given role and is one of the simplest metrics to utilize when performing analysis. 
+
+Instead of conducting a hypothesis test on the entire five roles of the game, two most significant roles were selected based on average damage per gold by position at the end of the game.     
