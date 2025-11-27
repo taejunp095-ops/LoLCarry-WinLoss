@@ -69,7 +69,7 @@ The scatterplot indicates that there is a small positive correlation between the
 
 The scatterplot indicates that there is no easily identifiable correlation between the carry rating and the total gold columns, as there seems to be no positive or negative trend. This shows that carry rating is a sufficient test statistic to be used, as it is not dominated by total gold alone and captures the difference that exist between roles. 
 <iframe
-  src="assets/Carry vs. Dmg.html"
+  src="assets/Carry vs. Gold.html"
   width="800"
   height="600"
   frameborder="0"
